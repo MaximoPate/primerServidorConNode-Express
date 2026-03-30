@@ -13,14 +13,5 @@
   },
   "dependencies": {
     "express": "^5.2.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MaximoPate/primerServidorConNode-Express.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/MaximoPate/primerServidorConNode-Express/issues"
-  },
-  "homepage": "https://github.com/MaximoPate/primerServidorConNode-Express#readme"
+  }
 }
